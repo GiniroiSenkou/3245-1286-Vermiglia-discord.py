@@ -6,6 +6,7 @@ discord2.0 = ``` pip install -U git+https://github.com/Rapptz/discord.py@master 
 
 ## How to Use?
 The "index.py" code is the main structure. Inside you'll find an area where you can insert any "Snippets" from the Snippets Folder that I have made. 
+config.ini is where you set your prefernces and the BOT TOKEN.
 
 ## Tested On
 Python3.9 - Linux 
