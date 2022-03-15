@@ -1,2 +1,2 @@
-# Discord-Aurora
-Various draft of made from @Aurora for moderation and simple functions that you may need on discord.
+# Cemilia---Discord
+Various snippets made from @Aurora for moderation and simple functions that you may find useful on discord.
