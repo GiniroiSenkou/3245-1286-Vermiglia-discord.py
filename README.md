@@ -1,4 +1,4 @@
-# Cemilia---Discord (Python)
+# Vemilia---Discord (Python)
 Various snippets for moderation and functions that you may find useful on discord.
 
 ## Requirements
