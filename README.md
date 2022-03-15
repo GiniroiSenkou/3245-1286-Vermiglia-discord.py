@@ -1,10 +1,11 @@
-# Cemilia---Discord
-Various snippets for moderation and functions that you may find useful on discord .
+# Cemilia---Discord (Python)
+Various snippets for moderation and functions that you may find useful on discord.
 
 ## Requirements
 discord2.0a 
+``` pip install -U git+https://github.com/Rapptz/discord.py@master ```
 
-## Installation
+## How to Use?
 The "index.py" code is the main structure. Inside you'll find an area where you can insert any "Snippets" from the Snippets Folder that I have made. 
 
 ## Tested On
