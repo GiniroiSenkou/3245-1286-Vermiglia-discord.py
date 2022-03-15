@@ -11,4 +11,4 @@ The "index.py" code is the main structure. Inside you'll find an area where you 
 Python3.9 - Linux 
 
 ## Credits
-"index.py" main structure has been inspired from https://github.com/TheRadziu/DiscordFilterBot and it has been modified and fixed to run new forks of discord.
+The "index.py" is the main structure that I'm using for the rest and it has been inspired from https://github.com/TheRadziu/DiscordFilterBot although it has been modified and fixed to run new forks of discord.
