@@ -12,4 +12,4 @@ config.ini is where you set your prefernces and the BOT TOKEN.
 
 
 ## Credits
-The "index.py" is the main structure that I'm using for the rest and it has been inspired from https://github.com/TheRadziu/DiscordFilterBot although it has been modified and fixed to run newer versions of discord.
+The "index.py" is the main structure that I'm using for the rest and it has been inspired from https://github.com/TheRadziu/DiscordFilterBot when I started using bots, even though it has been modified and fixed to run newer versions of discord.
