@@ -3,6 +3,7 @@ Various snippets for moderation and functions that you may find useful on discor
 
 ## Requirements
 Python3.9 (Tested)
+
 discord2.0 = ``` pip install -U git+https://github.com/Rapptz/discord.py@master ```
 
 
