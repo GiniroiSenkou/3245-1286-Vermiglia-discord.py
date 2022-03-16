@@ -1,5 +1,5 @@
 # Vermiglia-discord.py
-Various snippets for moderation and functions that you may find useful on discord. Works with 
+Various snippets for moderation and functions that you may find useful on discord. 
 
 ## Requirements
 Python3.9 (Tested)
